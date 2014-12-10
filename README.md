@@ -1,4 +1,4 @@
-Swift Weather
+MVVM
 ============
 
 MVVM is an iOS app developed in Swift language, which is used to demonstrate how to apply MVVM in an iOS project and how you can use the Xcode6 inner-build tool to perform unit test in Swift.
